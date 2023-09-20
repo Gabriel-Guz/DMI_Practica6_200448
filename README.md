@@ -1,16 +1,33 @@
-# dmi_practica6_200448
+# Practica6_200448 - Widget de Botón Personalizado
+![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
+## Información General
 
-A new Flutter project.
+- **Creado por:** Gabriel Guzmán Garcia
+- **Asignatura:** Desarrollo Movil Integral
+- **Grado:** 10
+- **Grupo:** A
+- **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
-## Getting Started
+## Descripción de la Aplicación
+Esta aplicación es un ejemplo simple de un botón personalizado en Flutter que cambia su texto cada vez que se presiona. Utiliza un StatefulWidget para mantener un estado interno y una lista de colecciones predefinidas para actualizar el texto del botón. El objetivo principal de esta aplicación es demostrar el uso de StatefulWidget y cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.El widget tiene un botón que cambia su texto cuando se presiona.
 
-This project is a starting point for a Flutter application.
+## Captura de Pantalla
+<p align="center">
+  <img src="./assets/2.jpeg" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/1.jpeg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/3.jpeg" width="200" alt="Captura de Pantalla 3">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para ejecutar esta aplicación, sigue estos pasos:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Asegúrate de tener Flutter y Dart instalados en tu sistema.
+
+2. Clona este repositorio o descarga el código fuente.
+
+3. Abre una terminal en la carpeta del proyecto.
+
+4. Ejecuta `flutter pub get` para obtener las dependencias.
+
+5. Ejecuta `flutter run` para iniciar la aplicación en un emulador o dispositivo físico.
